@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_a678cee14bb208e5a0677a084d046095ba8600b0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/androidstudio/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_58d0373cb169e105b66154b5f11e3b14e1668918/classes.dex" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_c7b87b296f770e550baf639f89acb3de17cc91fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d5321a9a4046e2d63ca24b07cb0400f107d975b">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f3be641b18b0aed068ede075bdee3fa19eca7ad9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_028e36bdbc221d12c56f40714f9af26a84f6462c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_0521f66766a28cfef491d4b233a2973b1f948e8d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_89095e432d3fc3f543599c9a50c1d990dae9785f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70c83e037c9b08388c4422749105bf5b75ee3a20">
+        <dex dex="/Users/androidstudio/Desktop/FirstAndroidApp_Morning-AbundoDain/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b799e32f7bb142e8918c0e1711de8d50c751a295/classes.dex" />
+    </item>
+
+</items>
